@@ -1,16 +1,18 @@
 .container {
-    display: inline-flex;
+    border: 1px black solid;
+
+    margin: 0px;
+    padding: 0px;
+
+    display: flex;
     flex-direction: column;
+
+    width: 960px;
+    height: 960px;
 }
 
 .row {
     display: flex;
-}
-
-.pixel {
-    border: 1px solid black;
-    width: 10px;
-    height: 10px;
 }
 
 .colored {
