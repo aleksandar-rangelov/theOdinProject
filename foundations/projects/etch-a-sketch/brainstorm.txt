@@ -1,0 +1,6 @@
+Etch a Sketch:
+1. drawing area
+    1.1 generate plane
+    1.2 handle coloring 
+2 resolution 
+    2.1 user input - clear frame, generate new drawing area.
